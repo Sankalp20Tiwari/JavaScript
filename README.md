@@ -49,7 +49,7 @@ Follow these steps to get started with this repository:
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/js-mastery.git
+   git clone https://github.com/Sankalp20Tiwari/JavaScript.git
    ```
 2. **Navigate into the project folder**
   ```sh
